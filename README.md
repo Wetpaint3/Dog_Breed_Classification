@@ -1,2 +1,2 @@
 # Dog_Breed_Classification
-Dog Breed Classification (Image processing using Convolutional Neural Networks + Generative Adversarial Network) 
+Dog Breed Classification. In this project I am working on Image processing using Convolutional Neural Networks. I was trying to classify Dog Breed by images. Besides that I am using Generative Adversarial Network to generate new pictures of the dogs from random numbers. 
